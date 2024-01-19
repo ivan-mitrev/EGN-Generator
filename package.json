@@ -1,0 +1,15 @@
+{
+  "name": "egngen",
+  "version": "1.0.0",
+  "description": "This program generates a list of EGNs (Unique Civil Registration Number) using Node.js and multi-threading. The generated EGNs are then saved to a file. The generation process is split into multiple threads to improve efficiency.",
+  "main": "index.js",
+  "dependencies": {
+    "progress": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
